@@ -16,4 +16,4 @@ What am I using to learn?
 * CodeWars - https://www.codewars.com 
 * Datacamp - https://www.datacamp.com
 
-These are a collection of CodeWars questions to help me beeter embrace and become cofortable with coding languages!
+These are a collection of CodeWars questions to help me better embrace and become cofortable with coding languages!
