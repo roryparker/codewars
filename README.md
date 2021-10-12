@@ -3,7 +3,7 @@
 ### :wolf: Clan: 
 ## :zap: Skills
 ### javascript
-#### Rank - 6 kyu / Score - 140
+#### Rank - 6 kyu / Score - 142
 
 ## :chart_with_upwards_trend: Stats
 ### :trophy: Leaderboard Position - 282286
